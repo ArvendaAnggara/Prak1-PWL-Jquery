@@ -1,4 +1,4 @@
 # Prak1-PWL-Jquery
 
-# Candra Wahyu Firmansyah
-# 119140009
+# Arvenda Budi Anggara
+# 119140089
